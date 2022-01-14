@@ -14,7 +14,7 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather on Telegram",
-      "value": "",
+      "value": "5066050370:AAFs4tKSQvE6EOs0FZgZzDVAdaUxRgqY_IM",
       "required": true
     },
     "GDRIVE_FOLDER_ID": {
